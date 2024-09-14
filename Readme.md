@@ -1,4 +1,4 @@
-# Project Name
+# Chat_with_PDFS
 
 This project uses Streamlit and LangChain to build a conversational AI application with PDF parsing and embeddings.
 
